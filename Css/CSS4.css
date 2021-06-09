@@ -1,0 +1,121 @@
+#P1{
+    background-color: #fff;
+    Color: #8360c3;
+   }   
+   
+   
+   .navbar {
+       padding: 0 0 .01rem;
+       background-color: rgba(46, 191, 145, 0.1);
+   }
+   
+   .nav-item {
+       padding: 0 18px;
+       
+   }
+   
+   .nav-link {
+       font-size: 1.2rem;
+       font-family: 'Raleway', sans-serif;   
+       font-style: italic;
+       font-weight: 800;
+       color: #8360c3;
+   
+   }
+   .tituloo{
+       padding: 90px 80px;
+   }
+   
+   h1{
+       font-family: 'montserrat', sans-serif;   
+       font-weight: 800;
+       font-size: 2.5rem;
+       text-align: center;
+       color: #8360c3;
+   }
+   
+   h2{
+       font-family: 'montserrat', sans-serif;   
+       font-weight: 1000;
+       font-size: 3.5rem;
+       text-align: left;
+       color: #2ebf91;
+   }
+   .parrafo1 {
+       text-align: left;
+       font-family: 'raleway', sans-serif;
+       font-size: 1.5rem;
+       color: #8360c3;
+       font-weight: 500;
+       padding-right: 20%;
+       padding-top: 3%;
+   }
+   
+   #integrante1{
+       padding: 350px 0px;
+       margin-left: 5rem;
+   }
+   #integrante2{
+       padding: 350px 0px;
+       margin-left: 5rem;
+   }
+   .habilidadess{
+       position: absolute;
+       max-width: 80%;
+       min-width: 30%;
+       padding-bottom: 10px;
+   }
+   
+   .ilustracionjj{
+   display: block;
+   align-content: center;
+   position: absolute;
+   width: 25rem;
+   min-width: 90%;
+   padding-top: 20%;
+   }
+   .ilustracionyb{
+       display: block;
+       align-content: center;
+       position: absolute;
+       width: 15rem;
+       min-width: 90%;
+       padding-top: 20%;
+   }
+       
+   .JJa{
+   width: 80%;    
+   padding:  1px;
+   }
+   
+   #nosotros {
+       padding:  1% 2%;
+       margin: 0;
+       box-sizing: border-box;
+      }
+   
+   .JJa:hover {
+       -webkit-transform:scale(1.2);transform:scale(1.2);}
+   
+   .habilidadesss{
+       position: absolute;
+       max-width: 80%;
+       min-width: 30%;
+       padding-bottom: 10px;
+   }
+   
+   .volver{
+       display: block;
+       align-content: center;
+       position: absolute;
+       width: 15rem;
+       min-width: 30%;    
+   }
+
+#redess{
+    display:block;
+margin-left: auto;
+margin-right: auto;
+max-width: 80%;
+object-fit: contain;
+}
